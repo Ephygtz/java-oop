@@ -1,0 +1,15 @@
+OOP concepts
+    * Class - A class is a blueprint
+            from which individual objects are created
+            - Can contain data member/Fields, Constructors, methods
+    * Object - Is an entity that has state and behaviour
+    * Inheritance - An object acquires all the properties
+                    of a parent/object extends
+                    public class B IS-A extends class A
+                    public class Subaru extends Car
+    * Polymorphism - Is when a task is performed differently'
+        -           - Overiding and overloading
+    * Abstraction - Hiding internal details and only showing the
+                    functionalities
+    * Encapsulation - Binding or wrapping code and data together
+                    in a single unit
